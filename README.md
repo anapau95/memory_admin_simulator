@@ -1,3 +1,9 @@
+# Equipo 7:
+# Ana Paula Aguilar A01192323
+# Mario Emilio Jiménez A01173359
+# Karla Fernanda Ceseña Aragón A00818843
+# Kevin Torres Martínez A01656257
+
 # memory_admin_simulator
 
 Final project for Operating Systems written in Rust.
